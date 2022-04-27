@@ -1,0 +1,15 @@
+h1{
+    color:rgb(187, 24, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body{
+    background-color: darkcyan;
+    margin-top: 80px;
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
