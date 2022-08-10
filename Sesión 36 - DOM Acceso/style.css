@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
